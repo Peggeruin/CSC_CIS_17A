@@ -1,2 +1,1 @@
-# CSC_CIS_17A
-Repository for CIS17A
+# CSC_CIS_17a
